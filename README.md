@@ -9,15 +9,16 @@ But what is capability of any code which will correct the 1 single qubit error. 
 
 To resolve the above issues i made the two notebooks which will be helpful specially in the field of measurement based quantum computing. Second note give you more insight about the any 1 qubit error correction code .Also you can try your own code and test it weather it will correct all the pauli errors or not.
 
-Below you can see the screenshot how we can change the one basis into another .\
+Below you can see the screenshot how we can change the one basis into another .
 
-![Screenshot 2022-02-04 190255](https://user-images.githubusercontent.com/82764276/152537634-e2d3410a-33e1-4d7c-bd2d-f4bc76398eae.png)
+
+![Screenshot 2022-02-04 190019](https://user-images.githubusercontent.com/82764276/152537898-126d10d2-7b30-4e05-99ef-61e02f3e3ced.png)
 \
 \
 ![download](https://user-images.githubusercontent.com/82764276/152537694-6de6de65-ec91-4a2e-8c5f-10fbfa2acc57.png)
 \
 \
-Glimpse from Notebook 2 i.e Stabilizer formulism which will tell you the strength of your quantum error correction code \
+Glimpse from Notebook 2 i.e Stabilizer formulism which will tell you the strength of your quantum error correction code 
 
 ![download (1)](https://user-images.githubusercontent.com/82764276/152537735-19e5a358-336e-4535-80c8-281d964327db.png)
 \
@@ -25,7 +26,7 @@ Glimpse from Notebook 2 i.e Stabilizer formulism which will tell you the strengt
 ![Screenshot 2022-02-04 190211](https://user-images.githubusercontent.com/82764276/152537829-2283b9b7-d2d8-4ec0-949c-556cace4e041.png)
 \
 \
-![Screenshot 2022-02-04 190019](https://user-images.githubusercontent.com/82764276/152537898-126d10d2-7b30-4e05-99ef-61e02f3e3ced.png)
+![Screenshot 2022-02-04 190255](https://user-images.githubusercontent.com/82764276/152537634-e2d3410a-33e1-4d7c-bd2d-f4bc76398eae.png)
 
 
 ### REFERENCES :
