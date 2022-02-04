@@ -1,6 +1,6 @@
 # Quantum-Measurement-in-any-basis-and-check-1 qubit-QEC
 
-Qiskit is one of the good tool where you can do the simulation of Quantum Circuit. When we want to measure the qubit in X basis unfortunatly that feature is not present in QisKIT but we can modify our circuit by adding the H Gate in the end. Currently, there is no such function avaiable that will give us flexibity in which we measure the qubit in any basis.
+Qiskit is one of the good tool where you can do the simulation of Quantum Circuit. When we want to measure the qubit in X basis unfortunatly that feature is not present in QisKIT but we can modify our circuit by adding the H Gate in the end. Currently, there is no such functionality avaiable that will give us flexibility in which we measure the qubit on any basis.
 With the help of Compleness theorem we can change the one basis into another, Thanks to Professor M -->  follow the link if you want to know the maths behind it [Change of basis](https://www.youtube.com/watch?v=CDmXvPDMIFs/)\
 
 Secondly, The main issue in quantum computation is ERRORS which comes mainly due to the interaction of environment and qubit. In all over the world scientist trying to reduce the error and developing the quantum error correction code which help us to preserve or retrieve the information if it got effected by an environment.\
